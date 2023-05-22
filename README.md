@@ -12,10 +12,10 @@ El eCommerce es uno de los más grandes negocios a nivel mundial, con ventas que
  -  Carla Vairetti
  -   Miguel Carrasco
 ## Colaboradores
- Juan Manuel Barrios (Impresee Inc.)
- Camila  Álvarez (Orand S.A.)
- Mauricio Palma (Orand S.A.)
+ - Juan Manuel Barrios (Impresee Inc.)
+ - Camila  Álvarez (Orand S.A.)
+ -  Mauricio Palma (Orand S.A.)
  
-
+TO BE COTINUED ...
 
 
